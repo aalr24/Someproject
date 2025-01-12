@@ -1,0 +1,16 @@
+.container1{
+    background-color: lightslategray;
+    padding:50px;
+    margin-left: 20px;
+}
+
+.header{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+
+.container{
+    display: flex;
+    width:auto;
+}

@@ -1,0 +1,43 @@
+img{
+ border-radius: 100%;
+ height: 200px;
+ width: 250px;
+ margin-left: 20px;
+}
+.one{
+    display:flex;
+    margin-left: 120px;
+    margin-right: 145px;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.kkk{
+    margin-top: 40px;
+    list-style-type: none;
+    font-size: 17px;
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(80, 123, 80);
+}
+
+div{
+margin-left: 10px;
+margin-right: 10px;
+font-size: 20px;
+padding: 20px;
+}
+.two{
+margin-left: 10px;
+margin-right: 10px;
+background-color: pink;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.two:hover{
+    box-shadow: 3px 3px 3px black;
+}
+button{
+    margin-left: 10%;
+    background-color:pink;
+    color: blue;
+}

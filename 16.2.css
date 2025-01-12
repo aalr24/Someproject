@@ -1,0 +1,40 @@
+@media screen and (min-width:481px) and (max-width:768px) {
+    .lead{
+        font-size: 1.5em;
+    }
+    .btn{
+        font-size: 2em;
+    }
+}
+@media screen and (min-width:1440px) {
+    .lead{
+        font-size: 1.5em;
+    }
+   
+    .btn{
+        font-size: 1.5em;
+    }
+    .is{
+        font-size: 30px;
+    }
+}
+@media  screen and (min-width:769px) and (max-width:1439px) {
+    .lead{
+        font-size: 2em;
+    }
+    .btn{
+        font-size: 2em;
+    }
+}
+@media screen and (min-width:320px) and (max-width:480px) {
+    .btn{
+        font-size: 2em;
+    }
+    .lead{
+        font-size: 2em;
+    }
+    .card-header.is{
+        font-size: 10vw;
+    }
+    
+}

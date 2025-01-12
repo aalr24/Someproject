@@ -1,0 +1,17 @@
+h1{
+    text-transform: uppercase;
+}
+div{
+  text-align: center;
+}
+hr{
+    color: blue;
+}
+body{
+    background-color:rgb(193, 209, 151);
+    padding: 150px;
+}
+h2{
+    text-transform: capitalize;
+    color: orange;
+}

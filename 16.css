@@ -1,0 +1,16 @@
+.head{
+    display: flex;
+    background-color: rgba(128, 128, 128, 0.108);
+}
+.header{
+    margin-left: 900px;
+}
+.pricing{
+    font-size: 100px;
+}
+.terms{
+    font-size: 30px;
+}
+.flex{
+    display: flex;
+}

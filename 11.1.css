@@ -1,0 +1,33 @@
+img{
+   margin-left: 100px;
+    margin-bottom: 100px;
+}
+body{
+    background-color: orange;
+}
+h3{
+    color: blue;
+    background-color: bisque;
+}
+h2{
+    text-align: center;
+}
+.kj{
+    background-color:orange;
+    padding-left: 200px;
+}
+.one{
+    display: flex;
+    margin-right: 50px;
+}
+.two{
+    display: flex;
+}
+.aa{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: red;
+
+}

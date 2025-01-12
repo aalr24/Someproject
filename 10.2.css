@@ -1,0 +1,49 @@
+.two .p{
+    width:200px;
+    border-radius: 50%;
+    height: 130px;
+    border: 5px double blue;
+}
+body{
+    background-color: pink;
+}
+.one{
+display: flex;
+justify-content: space-around;
+margin-top: 50px;
+flex-wrap: wrap;
+}
+div{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
+.two:hover{
+    box-shadow: 3px 3px 3px blueviolet;
+}
+.one .icon{
+    position: absolute;
+    bottom: -25px;
+    left:-25px;
+    width:50px;
+    height:50px;
+}
+.one .icons{
+    top: -25px;
+    right: -25px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+h2{
+    color: darkkhaki;
+}
+.two{
+    background-color: rgb(129, 92, 123);
+    padding: 10px;
+    width:250px;
+    text-align: center;
+    position: relative;
+    box-shadow: 3px 3px 10px black;
+    border-radius: 10px;
+}

@@ -1,0 +1,31 @@
+img{
+    height: 150px;
+    width: 180px;
+}
+.fg:hover{
+    box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.8);          
+  }
+div{
+    background-color: #f1f1f1;
+    margin-left: 10px;
+    margin-left: 10px;
+    padding: 20px;
+    font-size: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.erh{
+    display: flex;
+    text-align: center;
+    margin-left: 225px;
+    margin-right: 300px;
+    background-color: goldenrod;
+}
+button{
+    width: 30%;
+    background-color: rgb(6, 113, 235);
+    color: aliceblue;
+    border-radius:10%;
+    border: none;
+    border-style: dashed;
+    size: 20px;
+}

@@ -1,0 +1,13 @@
+form{
+    margin: auto;
+    width: 300px;
+    background-color: pink;
+    padding: 10px;
+}
+input[type=text],input[type=date],input[type=password],input[type=email],input[type=number]
+{
+    width:100%;
+}
+div{
+    margin-top: 10px;
+}

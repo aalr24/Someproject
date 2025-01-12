@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+    font-size: 70px;
+    text-align:center;
+    text-shadow: 2px 2px 10px black;
+    text-transform: capitalize;
+}
+p{
+    line-height: 30px;
+}
+ul{
+    list-style-type: square;
+    list-style-position: inside;
+    text-align: center;
+}
+h1:hover{
+    color:yellow;
+}
+h1:focus{
+    color: black;
+}
+a:focus{
+    color:red;
+}

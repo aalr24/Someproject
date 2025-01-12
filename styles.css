@@ -1,0 +1,67 @@
+
+html{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .emp{
+    width: 250px;
+    text-align: center;
+    box-shadow: 3px 3px 10px black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: 	#d3fcec;
+    position: relative;
+    }
+  
+  .emp button{
+    background-color: #831e1e;
+    color:white;
+    border: none;
+    padding: 10px 20px;
+  }
+  
+  .emp .profile-pic{
+    border-radius: 50%;
+    border: 5px double black;
+  }
+  
+  .emp .title{
+    color:#e23d45;
+    font-size: 25px;
+  }
+  
+  .emp-list{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    flex-wrap: wrap;
+  }
+  
+  .header{
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 3px 3px 6px #3fd5f0;
+    color:#033857b9;
+    
+  }
+  body{
+    background-color: #dfe23d;
+  }
+  .emp .icon{
+    position: absolute;
+    top: -25px;
+    right: -25px;
+  }
+  .footer{
+    margin-top: 40px;
+    list-style-type: none;
+    font-size: 17px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #1e8365;
+  }
+  .emp .icons{
+    position: absolute;
+    bottom: -25px;
+    left: -25px;
+  }
